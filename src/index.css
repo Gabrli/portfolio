@@ -18,4 +18,27 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+.btn_hero{
+  transition: all .4s;
+}
+.btn_contact{
+  transition: all .4s;
+}
+.btn_href{
+  transition: all .4s;
+}
+.btn_hero:hover{
+  
+  transform: translate(0, -3px);
+  box-shadow: 0 20px 80px -10px rgb(236 72 153);
+}
+.btn_href:hover{
+  transform: translate(0, -3px);
+  box-shadow: 0 20px 80px -10px #222;
+}
+.btn_contact:hover{
+  transform: translate(0, -3px);
+  box-shadow: 0 20px 80px -10px rgb(249 168 212);
 }

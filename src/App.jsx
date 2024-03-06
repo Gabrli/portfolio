@@ -7,6 +7,7 @@ import Hero from "./components/Hero/hero";
 import SectionHeader from "./components/SectionsHeader/sectionHeader";
 import About from "./components/About/about";
 import ProjectList from "./components/Projects/projectsList";
+import Footer from "./components/Footer/footer";
 
 function App() {
   const [theme, setTheme] = useState("dark")
@@ -29,6 +30,7 @@ const particlesLoaded = useCallback(async container => {
     <About/>
     <SectionHeader content="My Portfolio"/>
     <ProjectList/>
+    <Footer/>
     
     
     

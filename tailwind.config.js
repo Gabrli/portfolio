@@ -13,6 +13,7 @@ export default {
         custom_h_1: "50px",
         custom_h_2: "300px",
         custom_h_3: "400px",
+        custom_h_4: "140px"
       },
       width: {
         custom_w_1: "550px",
