@@ -8,10 +8,11 @@ import SectionHeader from "./components/SectionsHeader/sectionHeader";
 import About from "./components/About/about";
 import ProjectList from "./components/Projects/projectsList";
 import Footer from "./components/Footer/footer";
+import { useTranslation } from "react-i18next";
 
 function App() {
   const [theme, setTheme] = useState("dark")
-
+  const { t } = useTranslation()
   const particlesInit = useCallback(async engine => {
  
     await loadSlim(engine);
@@ -26,9 +27,9 @@ const particlesLoaded = useCallback(async container => {
     
     <Header setTheme={setTheme} theme={theme}/>
     <Hero/>
-    <SectionHeader content="About me "/>
+    <SectionHeader content={t("about_title")}/>
     <About/>
-    <SectionHeader content="My Portfolio"/>
+    <SectionHeader content={t("portfolio_title")}/>
     <ProjectList/>
     <Footer/>
     

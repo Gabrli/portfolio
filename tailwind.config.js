@@ -11,9 +11,10 @@ export default {
       },
       height: {
         custom_h_1: "50px",
-        custom_h_2: "300px",
+        custom_h_2: "320px",
         custom_h_3: "400px",
-        custom_h_4: "140px"
+        custom_h_4: "140px",
+        custom_h_5: "70px"
       },
       width: {
         custom_w_1: "550px",
