@@ -1,6 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/tw-elements-react/dist/js/**/*.js",
+  ],
   theme: {
     extend: {
       colors: {
@@ -14,11 +18,12 @@ export default {
         custom_h_2: "320px",
         custom_h_3: "400px",
         custom_h_4: "140px",
-        custom_h_5: "70px"
+        custom_h_5: "70px",
       },
       width: {
         custom_w_1: "550px",
-        custom_w_2: "360px"
+        custom_w_2: "360px",
+        custom_w_3: "416px"
       },
       screens: {
         mobile: { max: "877px" },

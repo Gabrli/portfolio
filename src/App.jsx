@@ -9,6 +9,7 @@ import About from "./components/About/about";
 import ProjectList from "./components/Projects/projectsList";
 import Footer from "./components/Footer/footer";
 import { useTranslation } from "react-i18next";
+import OfferList from "./components/Offer/offerList";
 
 function App() {
   const [theme, setTheme] = useState("dark")
@@ -27,9 +28,11 @@ const particlesLoaded = useCallback(async container => {
     
     <Header setTheme={setTheme} theme={theme}/>
     <Hero/>
-    <SectionHeader content={t("about_title")}/>
+    <SectionHeader id="offer" content="Co oferujemy ? "/>
+    <OfferList/>
+    <SectionHeader id="about" content={t("about_title")}/>
     <About/>
-    <SectionHeader content={t("portfolio_title")}/>
+    <SectionHeader id="portfolio" content={t("portfolio_title")}/>
     <ProjectList/>
     <Footer/>
     
