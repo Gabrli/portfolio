@@ -43,6 +43,8 @@ i18n
             "It is worth taking care of SEO because it improves the visibility of the website in search engines, which can attract more visitors, potential customers and increase the brand's online reputation.",
           ui_description:
             "It is worth taking care of a well-designed website because it affects the first impression of users, their experience when viewing content and can increase conversion and a positive brand image.",
+          runbalance_description:
+            "It is blog which was created for Trail runner.",
         },
       },
 
@@ -85,6 +87,7 @@ i18n
             "Warto zadbać o SEO, ponieważ poprawia on widoczność strony w wyszukiwarkach internetowych, co może przyciągnąć większą liczbę odwiedzających, potencjalnych klientów i zwiększyć reputację marki online.",
           ui_description:
             "Warto zadbać o dobrze zaprojektowaną stronę, ponieważ wpływa to na pierwsze wrażenie użytkowników, ich doświadczenie podczas przeglądania treści oraz może zwiększyć konwersję i pozytywny wizerunek marki.",
+          runbalance_description: "Ten projekt to strona blog dla Pawała Wiśniewskiego, czyli biegacza górskiego i pasjonata gór",
         },
       },
     },

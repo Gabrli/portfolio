@@ -2,7 +2,7 @@ import { useContext } from "react"
 import { themeContext } from "../../contexts/themeContext"
 import Skill from "./skill"
 import { useTranslation } from "react-i18next";
-import { FaReact, FaHtml5, FaCss3 } from "react-icons/fa";
+import { FaReact, FaHtml5, FaCss3, FaWordpress } from "react-icons/fa";
 import { SiTypescript, SiTailwindcss } from "react-icons/si";
 import { IoLogoJavascript } from "react-icons/io5";
 
@@ -19,6 +19,7 @@ export default function Skills(){
                 <Skill name="Tailwind" icon={<SiTailwindcss/>}/>
                 <Skill name="HTML5" icon={<FaHtml5/>}/>
                 <Skill name="CSS3" icon={<FaCss3/>}/>
+                <Skill name="Wordpress" icon={<FaWordpress/>}/>
             </div>
         </div>
     )
