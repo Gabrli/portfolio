@@ -14,7 +14,7 @@
         "headers" : [
           {
             "key" : "X-Robots-Tag",
-            "value" : "index"
+            "value" : "index, follow"
           }
         ]
       }
