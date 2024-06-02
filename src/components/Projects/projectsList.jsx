@@ -15,7 +15,7 @@ export default function ProjectList() {
         <div className="relative  w-full ml-auto mr-auto overflow-hidden after:clear-both after:block after:content-['']">
 
         <TECarouselItem itemID={1}  className="relative float-left  mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none">
-        <div className="w-full flex justify-center items-center gap-2 ">
+        <div className="w-full flex justify-center items-center gap-2 mobile:flex-col">
         <Project
           title="Taskify"
           description={t("taskify_description")}
@@ -43,8 +43,8 @@ export default function ProjectList() {
      
 
 
-        <TECarouselItem itemID={3}  className="relative float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"> 
-        <div className="w-full flex justify-center items-center gap-2">
+        <TECarouselItem itemID={2}  className="relative float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"> 
+        <div className="w-full flex justify-center items-center gap-2 mobile:flex-col">
         <Project
           title="Web Portfolio"
           description={t("web_portfolio_description")}

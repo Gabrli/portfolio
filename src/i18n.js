@@ -22,7 +22,7 @@ i18n
           skills: "Skills",
           portfolio_title: "My Projects",
           taskify_description:
-            "Taskify Work Planner: Streamline your task management and enhance productivity with Taskify. Effortlessly organize tasks, collaborate with your team, and stay on top of deadlines. Experience seamless task management today!",
+            "Taskify Work Planner: Streamline your task management and enhance productivity with Taskify. Effortlessly organize tasks, collaborate with your team, and stay on top of deadlines.",
           gopr_description:
             "Website of the Mountain Volunteer Rescue Service - Karkonosze",
           web_portfolio_description:
@@ -66,7 +66,7 @@ i18n
           skills: "Umiejętności",
           portfolio_title: "Moje projekty",
           taskify_description:
-            "Taskify Work Planner: Usprawnij zarządzanie zadaniami i zwiększ produktywność dzięki Taskify. Z łatwością organizuj zadania, współpracuj ze swoim zespołem i dotrzymuj terminów. Doświadcz płynnego zarządzania zadaniami już dziś!",
+            "Taskify Work Planner: Usprawnij zarządzanie zadaniami i zwiększ produktywność dzięki Taskify. Z łatwością organizuj zadania, współpracuj ze swoim zespołem i dotrzymuj terminów.",
           gopr_description:
             "Strona WWW Górskiego Ochotniczego Pogotowia Ratunkowego - Karkonosze ",
           web_portfolio_description:
