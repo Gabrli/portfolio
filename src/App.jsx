@@ -28,7 +28,7 @@ const particlesLoaded = useCallback(async container => {
     
     <Header setTheme={setTheme} theme={theme}/>
     <Hero/>
-    <SectionHeader id="offer" content="Co oferujemy ? "/>
+    <SectionHeader id="offer" content={t("offer_title")}/>
     <OfferList/>
     <SectionHeader id="about" content={t("about_title")}/>
     <About/>

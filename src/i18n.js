@@ -24,7 +24,7 @@ i18n
           taskify_description:
             "Taskify Work Planner: Streamline your task management and enhance productivity with Taskify. Effortlessly organize tasks, collaborate with your team, and stay on top of deadlines. Experience seamless task management today!",
           gopr_description:
-            "The GOPR first commercial website was created to provide easy access to contact with GOPR. Thanks to a transparent contact form and clear contact details, users can quickly contact the organization.",
+            "Website of the Mountain Volunteer Rescue Service - Karkonosze",
           web_portfolio_description:
             "This is my web portfolio you are currently on. This project shows that I can make business cards, websites, portfolios, companies and people.",
           get_in_touch: "Get in touch",
@@ -68,7 +68,7 @@ i18n
           taskify_description:
             "Taskify Work Planner: Usprawnij zarządzanie zadaniami i zwiększ produktywność dzięki Taskify. Z łatwością organizuj zadania, współpracuj ze swoim zespołem i dotrzymuj terminów. Doświadcz płynnego zarządzania zadaniami już dziś!",
           gopr_description:
-            "Pierwsza komercyjna strona internetowa GOPR powstała z myślą o umożliwieniu łatwego kontaktu z GOPR. Dzięki przejrzystemu formularzowi kontaktowemu i czytelnym danym kontaktowym użytkownicy mogą szybko skontaktować się z organizacją.",
+            "Strona WWW Górskiego Ochotniczego Pogotowia Ratunkowego - Karkonosze ",
           web_portfolio_description:
             "To jest moje portfolio internetowe, na którym aktualnie się znajdujesz. Ten projekt pokazuje, że potrafię tworzyć wizytówki, strony internetowe, portfolio, firmy i osoby.",
           get_in_touch: "Zacznijmy już dziś !",
@@ -87,7 +87,8 @@ i18n
             "Warto zadbać o SEO, ponieważ poprawia on widoczność strony w wyszukiwarkach internetowych, co może przyciągnąć większą liczbę odwiedzających, potencjalnych klientów i zwiększyć reputację marki online.",
           ui_description:
             "Warto zadbać o dobrze zaprojektowaną stronę, ponieważ wpływa to na pierwsze wrażenie użytkowników, ich doświadczenie podczas przeglądania treści oraz może zwiększyć konwersję i pozytywny wizerunek marki.",
-          runbalance_description: "Ten projekt to strona blog dla Pawała Wiśniewskiego, czyli biegacza górskiego i pasjonata gór",
+          runbalance_description:
+            "Ten projekt to strona blog dla Pawała Wiśniewskiego, czyli biegacza górskiego i pasjonata gór",
         },
       },
     },

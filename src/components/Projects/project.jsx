@@ -10,7 +10,7 @@ export default function Project(props){
     const { title, description, skills, ghHref, demoHref} = props
     const theme = useContext(themeContext)
     return (
-        <div className={`project w-custom_w_1  ml-auto mr-auto  h-custom_h_3 border rounded-lg ${theme === "dark" ? "bg-secondary1 border-secondary2 " : "bg-secondary_light1/75 border-secondary_light2"} mobile:w-custom_w_2`}>
+        <div className={`project w-custom_w_1  h-custom_h_3 border rounded-lg ${theme === "dark" ? "bg-secondary1 border-secondary2 " : "bg-secondary_light1/75 border-secondary_light2"} mobile:w-custom_w_2`}>
             <header className="pt-4 pl-4">
                 <h4 className={`font-medium text-3xl text-pink-500`}>{title}</h4>
 
