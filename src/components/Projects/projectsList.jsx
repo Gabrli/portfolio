@@ -69,7 +69,25 @@ export default function ProjectList() {
             { id: Math.random(), name: "Wordpress", icon: <FaWordpress /> },
           ]}
         />
+        
         </div>
+        </TECarouselItem>
+        <TECarouselItem>
+        <Project
+          title="Weronika Chodakowska - piano"
+          description={t("weronika_description")}
+          ghHref=""
+          demoHref="https://weronikachodakowska.com/"
+          skills={[
+            { id: Math.random(), name: "Wordpress", icon: <FaWordpress /> },
+            {
+              id: Math.random(),
+              name: "JavaScript",
+              icon: <IoLogoJavascript />,
+            },
+            { id: Math.random(), name: "CSS3", icon: <FaCss3 /> },
+          ]}
+        />
         </TECarouselItem>
       
         </div>

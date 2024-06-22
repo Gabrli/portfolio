@@ -46,6 +46,8 @@ i18n
           runbalance_description:
             "It is blog which was created for Trail runner.",
         },
+        weronika_description:
+          "Ms. Weronika wanted her website and its modernization, and I came to help with this challenge.",
       },
 
       pl: {
@@ -90,6 +92,8 @@ i18n
           runbalance_description:
             "Ten projekt to strona blog dla Pawała Wiśniewskiego, czyli biegacza górskiego i pasjonata gór",
         },
+        weronika_description:
+          "Pani Weronika zapragneła modernizacji swojej strony internetowej i jej unowocześnienia, a ja przyszedłem jej z pomocą w tym wyzwaniu.",
       },
     },
     lng: "pl", // if you're using a language detector, do not define the lng option
