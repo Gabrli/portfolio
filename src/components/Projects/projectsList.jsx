@@ -72,7 +72,8 @@ export default function ProjectList() {
         
         </div>
         </TECarouselItem>
-        <TECarouselItem itemID={3}>
+        <TECarouselItem className="relative float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none" itemID={3}>
+        <div className="w-full flex justify-center items-center">
         <Project
           title="Weronika Chodakowska - piano"
           description={t("weronika_description")}
@@ -88,6 +89,7 @@ export default function ProjectList() {
             { id: Math.random(), name: "CSS3", icon: <FaCss3 /> },
           ]}
         />
+        </div>
         </TECarouselItem>
       
         </div>
