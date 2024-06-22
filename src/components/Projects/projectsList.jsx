@@ -72,7 +72,7 @@ export default function ProjectList() {
         
         </div>
         </TECarouselItem>
-        <TECarouselItem>
+        <TECarouselItem itemID={3}>
         <Project
           title="Weronika Chodakowska - piano"
           description={t("weronika_description")}
