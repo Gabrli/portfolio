@@ -45,9 +45,11 @@ i18n
             "It is worth taking care of a well-designed website because it affects the first impression of users, their experience when viewing content and can increase conversion and a positive brand image.",
           runbalance_description:
             "It is blog which was created for Trail runner.",
+          weronika_description:
+            "Ms. Weronika wanted her website and its modernization, and I came to help with this challenge.",
+          corsa_description:
+            "CORSACLASSICA is a car magazine that enjoys a huge and positive reception.",
         },
-        weronika_description:
-          "Ms. Weronika wanted her website and its modernization, and I came to help with this challenge.",
       },
 
       pl: {
@@ -91,9 +93,11 @@ i18n
             "Warto zadbać o dobrze zaprojektowaną stronę, ponieważ wpływa to na pierwsze wrażenie użytkowników, ich doświadczenie podczas przeglądania treści oraz może zwiększyć konwersję i pozytywny wizerunek marki.",
           runbalance_description:
             "Ten projekt to strona blog dla Pawała Wiśniewskiego, czyli biegacza górskiego i pasjonata gór",
+          weronika_description:
+            "Pani Weronika zapragneła modernizacji swojej strony internetowej i jej unowocześnienia, a ja przyszedłem jej z pomocą w tym wyzwaniu.",
+          corsa_description:
+            "CORSACLASSICA jest to magazyn motoryzacyjny, który cieszy się ogromnym i pozytywnym odbiorem.",
         },
-        weronika_description:
-          "Pani Weronika zapragneła modernizacji swojej strony internetowej i jej unowocześnienia, a ja przyszedłem jej z pomocą w tym wyzwaniu.",
       },
     },
     lng: "pl", // if you're using a language detector, do not define the lng option

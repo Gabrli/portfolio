@@ -89,6 +89,17 @@ export default function ProjectList() {
             { id: Math.random(), name: "CSS3", icon: <FaCss3 /> },
           ]}
         />
+        <Project
+        title="CORSACLASSICA - automotive magazine"
+        description={t("corsa_description")}
+        ghHref=""
+        demoHref="https://corsaclassica.pl/"
+        skills={[
+          {id: Math.random(), name: "Wordpress", icon: <FaWordpress/>},
+          {id: Math.random(), name: 'CSS', icon: <FaCss3/>},
+          {id: Math.random(), name: "HTML5", icon: <FaHtml5/>}
+        ]}
+        />
         </div>
         </TECarouselItem>
       
