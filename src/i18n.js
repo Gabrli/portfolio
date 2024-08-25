@@ -66,7 +66,7 @@ i18n
           about_description:
             "Jestem programistą specjalizującym się w rozwoju front-end. Tworzę dynamiczne strony internetowe i aplikacje internetowe, dostarczając efektywne rozwiązania informatyczne dla Twojego biznesu. Jestem gotowy do realizacji innowacyjnych projektów, które zachwycą użytkowników i wspierają cele Twojej firmy w Internecie.",
           carieer_description:
-            "Programuje od 7 klasy podstwówki. Od małych gier aż do dużych aplikacji pisanych w zespołach. Obecnie jestem uczniem klasy I technikum na kierunku technika programisty ze spec. sztuczna inteligencja i  tworzę projekty komercyjne dla klientów jak i ja sam jestem pomysłodawcą i twórcą niektórych aplikacji, które znajdziesz na moim GitHubie.",
+            "Programuje od 7 klasy podstwówki. Od małych gier aż do dużych aplikacji pisanych w zespołach. Obecnie jestem uczniem klasy II technikum na kierunku technika programisty ze spec. sztuczna inteligencja i  tworzę projekty komercyjne dla klientów jak i ja sam jestem pomysłodawcą i twórcą niektórych aplikacji, które znajdziesz na moim GitHubie.",
           skills: "Umiejętności",
           portfolio_title: "Moje projekty",
           taskify_description:
